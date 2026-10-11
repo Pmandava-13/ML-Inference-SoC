@@ -1,5 +1,5 @@
 # ML-Inference-SoC
-# Artix-7 FPGA Neural Processing Unit (NPU)
+# Spartan-7 FPGA Neural Processing Unit (NPU)
 
 ## Overview
 A custom-designed Edge AI Accelerator SoC built on an Artix-7 FPGA for real-time MNIST digit recognition. This project offloads machine learning inference from software to dedicated hardware, utilizing a custom 16-core parallel MAC datapath to execute a 2-layer ReLU neural network. 
